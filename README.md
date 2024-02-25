@@ -1,11 +1,8 @@
-this is a jailbroken version of meteor client that is optimized and obsf'd with UPX
+this is a jailbroken version of meteor client that is optimized and obsf'd with UPX.
 
-u will need to create an account with a registered g-mail account once you have opened and read the agreements
+to open the login creation prompt you need to run the "exe" (after you make an account it will redirect to a login page)
 
-to open the login prompt you need to run the "exe"
+!! USE A REGISTERED EMAIL AND DONT FORGET YOUR LOGIN CREDENTIALS !!
+----
 
-
-
-(it should make you read the terms and conditions but if it doesnt you can open them on "legal.txt")
-
-have fun and dont spread this too much my server can only handle up to 300 members
+if anything isnt functioning properly contact me on discord via- ruisvv
